@@ -1,5 +1,6 @@
 const util = require("util");
 const fs = require("fs");
+const uuid = require("uuid");
 
 const readDbJsonAsync = util.promisify(fs.readFile);
 const writeDbJsonAsync = util.promisify(fs.writeFile);
@@ -23,10 +24,12 @@ class Store {
   postNewNote(newNote) {
     console.log(newNote);
 
+    // Setting how we want the information to save
     const noteToBeAdded = {
       title: newNote.title,
       text: newNote.text,
-      id: 1234567,
+      // Unique Id using uuid goes here. This will help give a unique identity to make referencing each note easier.
+      id: uuid(),
     };
 
     console.log(noteToBeAdded);
