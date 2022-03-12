@@ -29,8 +29,9 @@ Step by step guide through the application:
 
 Link to the website: [Note-Taker](https://radiant-retreat-56437.herokuapp.com/)
 
-![HomePage]()
-![NotesPage]()
+![HomePage](https://github.com/yasmin-io/note-taker/blob/b98c5cdab328e51820b2d4db4b3ab83447fc7e77/Images/HomePage.png)
+
+![NotesPage](https://github.com/yasmin-io/note-taker/blob/b98c5cdab328e51820b2d4db4b3ab83447fc7e77/Images/Website%20Image.png)
 
 ---
 
@@ -56,9 +57,9 @@ The updates will be coming soon!!
 
 ## Resources & Credit
 
-- [Reddit]() was extremely useful for debugging for status errors (like my 500 POST error).
+- [Reddit](https://www.reddit.com/r/node/comments/73vydv/post_request_failing_on_express_app_when_deployed/) was extremely useful for debugging for status errors (like my 500 POST error).
 
-- [StackOverflow]() is another helpful website when solving errors or mistakes in code.
+- [StackOverflow](https://stackoverflow.com/questions/46021463/heroku-giving-500-error-with-little-information-internal-server-error) is another helpful website when solving errors or mistakes in code.
 
 - My Tutor guided and helped me alot through this project due to my struggles.
 
