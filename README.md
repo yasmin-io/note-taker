@@ -41,10 +41,6 @@ Link to the website: [Note-Taker](https://radiant-retreat-56437.herokuapp.com/)
 
 This application is still under construction and you are able to view it and use it, however there is functionality missing. I have had a problem arise in my code and this will be fixed promptly.
 
-### Save Note Issue
-
-Currently, I am struggling to have the notes display on the sidebar. Latterly, this was a fully functioning website, so I am aware the problem shan't be that big; therefor the problem will be fixed shortly.
-
 ### Delete Note Issue
 
 Unfortunatley, due to the issue above I have not been able to add this functionality yet.
